@@ -8,4 +8,4 @@ Integration source and installation instructions: [re-canvas-door-swing/examples
 
 The archived website content belongs to its original creators. This repository hosts an integration demonstration; it does not claim ownership of the original site or game assets.
 
-GitHub Pages serves the main branch directly. The original Big5 HTML encoding is preserved.
+GitHub Pages serves the main branch directly. HTML pages are converted from Big5 to UTF-8 for GitHub Pages, which sends UTF-8 response headers. The local archive retains its original bytes.
